@@ -27,5 +27,5 @@ A C++ program that calculates the total equivalent resistance of an electrical c
 ## Examples
 
 ### 1. Simple Series
-Input: `S 1 2 3 e` 
+Input: `S 1 2 3 e`.
 Output: The total resistance = 6
